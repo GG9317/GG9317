@@ -18,4 +18,24 @@ Uses intake: A3–A4, D14–D15.
 *Realistic:* ~2–5 hrs/week of upkeep for one mature product stream. Product decisions, content ideas, and handling exceptions stay with you, and that's on purpose.
 
 ## Personalized plan
-_Pending intake._ Will map onto your actual stack and weekly time drains.
+*Stand 2026-10-15. Stack: Python, Make, Power Automate, Cursor, Replit, HTML/CSS/JS.*
+
+### Zuerst bauen (≤ 1 Wochenende)
+**Readiness-Check → Bericht → E-Mail-Sequenz → Kalender-Link**
+Formular → Make → LLM erzeugt Kurzbericht (PDF) → E-Mail-Tool versendet ihn + 4-teilige Sequenz (Fallstudie, Audit-Angebot, Cockpit-Demo, letzte Erinnerung) → Kontakt im CRM mit Punktzahl. Das ist gleichzeitig Lead-Magnet, Qualifizierung und Verkauf.
+
+### Danach
+| Funktion | Automatisieren | Mensch bleibt drin | Guardrail |
+|----------|----------------|--------------------|-----------|
+| **Audit** | Fragebogen, Datenauswertung, Berichtsentwurf per LLM | 60-Min-Gespräch, Empfehlungen prüfen | Nie einen Bericht ungelesen versenden |
+| **Cockpit-Onboarding** | Zahlung → Konto anlegen → Willkommens-Mails Tag 0/3/7/14 → Nutzungs-Check | Kurzer Onboarding-Call für die ersten 20 Kunden | Kunden ohne Login nach 7 Tagen → Alarm an dich |
+| **Abrechnung** | Stripe-Abo bzw. QR-Rechnung, Mahnungen, MWST-Export | Zahlungsausfälle, Rabatte | Monatlicher Abgleich mit Buchhaltung |
+| **Support** | FAQ + KI-Chat im Cockpit für Standardfragen | Alles zu Daten, Kündigung, Beschwerden | „Mensch kontaktieren“ immer sichtbar; Antwort ≤ 1 Werktag |
+| **Partner** | Provision automatisch berechnen, monatlicher Partner-Report | Neue Partner aufnehmen | Partner-Vertrag mit Datenschutzklausel |
+| **Kennzahlen** | Wöchentliche Mail: MRR, neue/verlorene Kunden, Readiness-Checks, Audits, Stunden | Entscheiden, was sich ändert | Max. 5 Zahlen |
+
+### Deine eigenen Zeitfresser (D15)
+Manuelle Schnittstellenpflege, Dokumentation, uneinheitliche Auswertungen — genau das löst das Cockpit für KMU. **Löse sie zuerst bei dir selbst mit dem Cockpit.** Das spart Zeit und liefert deine stärkste Fallstudie.
+
+### Wie nah an 5–6 h/Woche
+Erreichbar ab ca. **30–50 Kunden**, wenn Onboarding und Support automatisiert sind. Bei 134 Kunden brauchst du wahrscheinlich eine Teilzeit-Hilfe für Support (~4–8 h/Woche, ca. CHF 300–700/Monat) — *Annahme*, aus dem Reinvestitionsanteil bezahlt.

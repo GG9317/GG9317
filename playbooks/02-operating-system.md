@@ -49,4 +49,34 @@ Reinvest in this order: **time-savers** (automation, a VA) → **distribution** 
 The arithmetic is exact; the conversion rates (1–3% of list buying per launch, 2–5% of sales-page visitors buying) are **assumptions** based on commonly reported ranges. Replace them with your own numbers by month 3.
 
 ## Personalized plan
-_Pending intake._ Will include: your 3 streams ranked, a 90-day build schedule, and your first move this week.
+*Stand 2026-10-15. Werte in CHF.*
+
+### Deine 3 Streams
+| Slot | Stream | Preis | Ziel Monat 6 | Ziel Monat 12 |
+|------|--------|-------|--------------|---------------|
+| 1 — Schnellstes Geld | **KI-Prozess-Audit** (teilautomatisiert: Fragebogen → LLM-Analyse → Bericht + 60-Min-Call) | Basic CHF 990 / Standard CHF 1'900 / Plus CHF 2'900 | 2 Audits/Monat | 3 Audits/Monat |
+| 2 — Kumulierendes Asset | **E-Mail-Liste + LinkedIn** mit kostenlosem **„KI-Readiness-Check“** (5-Min-Online-Check mit automatischem Kurzbericht) | gratis | 300 Kontakte | 1'000 Kontakte |
+| 3 — Höchste Decke | **KI KMU Cockpit** (SaaS) + Partner-Lizenz | CHF 150/Monat; Jahresabo CHF 1'500 | 15 Kunden (CHF 2'250 MRR) | 50 Kunden (CHF 7'500 MRR) |
+
+Die Leiter: **Readiness-Check (gratis) → Audit (einmalig) → Cockpit (monatlich)**. Jedes Audit endet mit einem Cockpit-Angebot; Audit-Kunden erhalten 3 Monate Cockpit inklusive.
+
+### 90-Tage-Bauplan (8–16 h/Woche)
+| Wochen | Fokus | Ergebnis |
+|--------|-------|----------|
+| 1–2 | Audit-Angebot + Verkaufsseite; Readiness-Check bauen (deine Stärke, max. 10 h) | Seite live, Check live, Stripe/Rechnung funktioniert |
+| 3–4 | 50 persönliche Nachrichten an KMU (siehe Playbook 4); 3 **Pilot-Audits zum halben Preis** gegen Fallstudie | 3 Pilot-Kunden |
+| 5–8 | Pilot-Audits liefern; Cockpit mit diesen 3 KMU testen; erste 5 Treuhänder/IT-Partner ansprechen | 3 Fallstudien, 1–3 Cockpit-Kunden |
+| 9–12 | Audit zum vollen Preis; 1 Partner-Pilot; LinkedIn 2× pro Woche | 5 Cockpit-Kunden, 1 Partner, erste Zahlen im TRACKER |
+
+### Dein erster Schritt diese Woche
+Schreib die Audit-Verkaufsseite (1 Seite: Problem, Ergebnis, 3 Pakete, Preis, Kalender-Link) und sende sie an **10 konkrete KMU** in Zürich/Graubünden. Ziel: 1 Gespräch.
+
+### Reinvestition (an dein Budget angepasst)
+| Monatsgewinn | Auszahlen | Reinvestieren | Puffer |
+|--------------|-----------|---------------|--------|
+| < CHF 2'000 | 0–20 % | 70–90 % (Hosting, LLM-Kosten, Partnerprovisionen) | 10 % |
+| CHF 2'000–8'000 | 40 % | 40 % (Freelancer für Support/Onboarding, Event-Stände) | 20 % |
+| > CHF 8'000 | 50 %+ | 30 % | 20 % bis 6 Monate Betriebskosten gedeckt |
+
+### Rechnung für CHF 20'000 MRR
+134 Kunden. Mit Partnerkanal z. B.: **8 aktive Partner × 10 Kunden = 80** + **54 Direktkunden** (aus Audits, Readiness-Check, LinkedIn). Abschlussquoten sind *Annahmen* — ab Monat 3 durch eigene Zahlen ersetzen.

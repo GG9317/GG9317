@@ -17,4 +17,19 @@ Avoid products whose value depends on one platform's current quirk or one trend.
 *Assumption to watch:* AI tools may commoditize generic templates and info products. Specificity, curation, and trust are the defense.
 
 ## Personalized plan
-_Pending intake._ Will name 3 candidate products from your skills, with a validation test for each.
+*Stand 2026-10-15. Werte in CHF.*
+
+### 3 Produkt-Kandidaten
+| # | Produkt | Zielkunde | Validierungstest | Bestanden wenn |
+|---|---------|-----------|------------------|----------------|
+| 1 | **KI-Prozess-Audit** (Festpreis) | Inhaber/GF von KMU mit 10–100 MA in ZH/GR | Verkaufsseite + 50 persönliche Nachrichten + 2 Gewerbe-Anlässe | ≥ 3 bezahlte Pilot-Audits in 4 Wochen |
+| 2 | **KI KMU Cockpit** (SaaS, CHF 150/Monat) | Dieselben KMU, nach dem Audit | 3 Audit-Kunden 30 Tage gratis nutzen lassen, dann Zahlung verlangen | ≥ 2 von 3 zahlen nach dem Test |
+| 3 | **Partner-Lizenz** (White-Label/Provision für Treuhänder & IT-Dienstleister) | Treuhandbüros mit 30–200 KMU-Mandanten | 10 Treuhänder anschreiben, 3 Gespräche, 1 Pilot mit 20–30 % Provision | 1 Partner bringt ≥ 3 Kunden in 60 Tagen |
+
+### Schweizer Besonderheiten (Guardrails)
+- **Datenschutz (revDSG):** Hosting in CH/EU, Auftragsbearbeitungsvertrag (AVV) bereit, klar sagen, welche Daten an welches LLM gehen. Für KMU oft das Kaufkriterium Nr. 1.
+- **Zahlung:** Viele KMU wollen Rechnung (QR-Rechnung) statt Kreditkarte. Beides anbieten; Jahresabo mit Rabatt (CHF 1'500 statt 1'800) verbessert Cashflow.
+- **Sprache:** Deutsch (Schweizer Begriffe, CHF, MWST); später Französisch/Italienisch als Ausbau.
+
+### Grösster Fehler für dich
+Weiter am Cockpit bauen statt verkaufen. Mit Tech 5/5 ist Bauen der bequeme Weg. **Regel:** Bis 10 zahlende Kunden höchstens 30 % der Wochenzeit für Produktentwicklung, 70 % für Verkauf und Lieferung.

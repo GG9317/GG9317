@@ -39,4 +39,24 @@ ordinary person who keeps going for 12–24 months typically sees. They are
 4. **Year 2:** micro-SaaS, membership, or sponsorships, once there's an audience and proven demand.
 
 ## Personalized plan
-_Pending intake._
+*Stand 2026-10-15. Basis: [INTAKE](../INTAKE.md). Werte in CHF.*
+
+### Ausgangslage in einem Satz
+Sehr starke Bau-Fähigkeit (Tech 5/5, KI 5/5), fertiges Produkt (KI KMU Cockpit), aber **0 Kontakte, 0 Werbebudget und CHF 150/Monat Einkommen**. Der Engpass ist nicht das Produkt, sondern **Vertrieb und Cashflow**.
+
+### Deine Modelle, gerankt
+| Rang | Modell | Warum es passt | Rolle |
+|------|--------|----------------|-------|
+| 1 | **Productized Service: „KI-Prozess-Audit für KMU“** (Festpreis CHF 990–2'900) | Schnellstes Geld; nutzt Prozess- und KI-Know-how; jedes Audit ist ein Verkaufsgespräch für das Cockpit | Finanziert den Rest, erzeugt Fallstudien |
+| 2 | **Micro-SaaS: KI KMU Cockpit** (CHF 150/Monat) | Existiert schon, höchste Decke, wiederkehrend | Hauptziel (CHF 20'000 MRR) |
+| 3 | **Lizenz / White-Label an Multiplikatoren** (Treuhänder, IT-Dienstleister) | Löst das Netzwerk-Problem: ein Partner bringt viele KMU | Hebel für Kundenzahl |
+| 4 | Templates / KI-Workflow-Pakete (Make/Power Automate) | Fertige Workflows vorhanden; aber kleine Decke | Lead-Magnet, kein Hauptstrom |
+| — | Kurs, Community, YouTube, SEO-Affiliate | Zu langsam oder zu zeitintensiv für 8–16 h/Woche | Jahr 2 oder nie |
+
+### Realitätscheck Ziel
+- CHF 20'000 MRR ÷ CHF 150 = **134 Kunden**. Bei 3 % Kundenabgang pro Monat (*Annahme*, üblich für KMU-SaaS) gehen ab dieser Grösse ~4 Kunden/Monat verloren, die ersetzt werden müssen.
+- Ohne Netzwerk und Werbebudget ist **134 Kunden in 12 Monaten sehr ambitioniert**. Realistischer Korridor: **12 Monate → CHF 3'000–8'000 MRR (20–55 Kunden)**, **18–24 Monate → CHF 20'000**, falls Partnerkanal funktioniert.
+- Das Audit kann parallel CHF 2'000–6'000/Monat bringen und überbrückt die Zeit.
+
+### Budget-Regel
+CHF 5'000 Experimentiertopf. Kein Rappen aus den restlichen CHF 45'000, bevor nicht **10 zahlende Cockpit-Kunden** existieren.

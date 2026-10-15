@@ -16,17 +16,17 @@ Short answers are fine. "I don't know" is a valid answer. Be honest, not aspirat
 
 ## B. Resources
 5. **Starting budget** you can put in over the next 6 months?
-   > Gedeckt durch Eigenmittel und laufende Projekte (kein externer Kapitalbedarf für den Start).
+   > **CHF 50'000** verfügbar, gedeckt durch Eigenmittel und laufende Projekte (kein externer Kapitalbedarf für den Start).
 6. **Risk tolerance** — how much of that can you lose entirely without real harm?
-   > Moderat bis hoch für Software-Prototyping und skalierbare Digital-Assets; geringes Risiko bei physischem Exposure ohne Absicherung.
+   > **CHF 5'000** davon verlierbar ohne echten Schaden. Moderat bis hoch für Software-Prototyping und skalierbare Digital-Assets; geringes Risiko bei physischem Exposure ohne Absicherung.
 7. **Hours per week**, realistically, for the next 6 months?
-   > Fokussierte, hochproduktive Blöcke nach dem Prinzip des leanen Systems (orientiert an hocheffizienten Zeitstrukturen).
+   > **8–16 h/Woche**, in fokussierten, hochproduktiven Blöcken.
 8. **Lifestyle constraints** — job, family, travel, location, time zone?
    > Wohnsitz in der Schweiz (Fokus Zürich / Graubünden), gebunden durch laufende strategische Mandate und Systemprojekte. Zeitzone CET/CEST.
 
 ## C. Distribution
 9. **Audience/platform** — any followers, email list, community, or network? Where and how many?
-   > Starkes B2B-Netzwerk im Schweizer KMU-Sektor, Branchenkontakte in Kartsport und Industrie, im Aufbau befindliche Kanäle für das KI KMU Cockpit und das Projekt „6H“.
+   > **~0 direkte KMU-Kontakte**, die heute als Leads nutzbar sind. Branchenkontakte in Kartsport und Industrie; Kanäle für das KI KMU Cockpit und das Projekt „6H“ sind erst im Aufbau.
 10. **Marketing tried before** — what, and what happened?
     > Direktvertrieb, B2B-Networking, zielgerichtetes Event- und Marken-Marketing (erfolgreich erprobt bei Bougis GmbH und OutdoorKart).
 11. **Paid-ad budget**, if any (monthly)?
@@ -34,7 +34,7 @@ Short answers are fine. "I don't know" is a valid answer. Be honest, not aspirat
 
 ## D. Current state (skip if starting from zero)
 12. **Current income streams** and monthly revenue from each.
-    > Beratungsmandate, Tech-Projekte, operative Fachexpertise.
+    > Beratungsmandate, Tech-Projekte, operative Fachexpertise — zusammen **ca. CHF 150/Monat**.
 13. **Most stable / most at-risk** stream?
     > Stabilster Strom: B2B-Consulting & Fachexpertise. Gefährdetster Strom: Volatile Sekundärmärkte.
 14. **Business type and tools** you already use (stack).
@@ -46,23 +46,17 @@ Short answers are fine. "I don't know" is a valid answer. Be honest, not aspirat
 
 ## E. Goal
 17. **Monthly income target** from these streams.
-    > Aufbau eines skalierbaren, wiederkehrenden SaaS- und Lizenz-Cashflows über das KI KMU Cockpit.
+    > **CHF 20'000 wiederkehrender Monatsumsatz (MRR)** über das KI KMU Cockpit, Preis **CHF 150/Kunde/Monat** → **≈ 134 zahlende Kunden**.
 18. **Timeline** to hit it.
     > Konsequenter Rollout und Skalierung in den nächsten 6 bis 12 Monaten.
 19. **What "passive" means to you** — e.g. "≤5 hrs/week upkeep" or "can take a month off".
     > Semi-passiv: Ein teilautomatisiertes System, bei dem das Cockpit und die Inbound-Strecken mit **max. 5–6 Stunden Steuerungszeit pro Woche** stabil und profitabel laufen.
 
-## Offene Zahlen (für die Playbooks noch zu konkretisieren)
-Diese Antworten sind qualitativ; die Playbooks rechnen mit Zahlen. Bis sie
-ergänzt sind, werden sie als **Annahme** behandelt und im [TRACKER](TRACKER.md) getestet.
-
-| # | Frage | Fehlt | Vorschlag zum Ausfüllen |
-|---|-------|-------|-------------------------|
-| 5/6 | Budget & Verlusttoleranz | CHF-Betrag | z. B. „CHF X über 6 Monate, davon CHF Y verlierbar“ |
-| 7 | Stunden pro Woche | Zahl | z. B. „8 h/Woche Aufbauphase“ |
-| 9 | Netzwerk-Grösse | Anzahl | z. B. „~N direkte KMU-Kontakte, N LinkedIn-Follower“ |
-| 12 | Einnahmen je Strom | CHF/Monat | Bandbreite genügt |
-| 17 | Monatsziel | CHF/Monat | z. B. „CHF X MRR = N Kunden × CHF Y“ |
+## Widersprüche und Annahmen (geklärt am 2026-10-15)
+- **Netzwerk:** A2/C9 nennen ein „etabliertes Netzwerk“, die Zahl dazu ist ~0 KMU-Kontakte. Die Playbooks rechnen mit **0** — ehrlicher und sicherer.
+- **Monatsziel:** Angegeben war „500 Kunden × CHF 150“. Das ergibt CHF 75'000, nicht 20'000. Die Playbooks rechnen mit **CHF 20'000 MRR = ≈ 134 Kunden**; 500 Kunden gelten als spätere Ausbaustufe.
+- **Einkommen:** CHF 150/Monat wird als Gesamtbetrag aller heutigen Ströme gelesen.
+- **Budget:** Von CHF 50'000 sind nur CHF 5'000 verlierbar. Experimente werden deshalb aus diesem Topf von CHF 5'000 bezahlt; der Rest bleibt Reserve und wird erst nach bewiesener Nachfrage eingesetzt.
 
 ---
 

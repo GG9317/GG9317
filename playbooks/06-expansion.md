@@ -45,4 +45,30 @@ Default: 30–50% of each stable stream's profit funds the next build (freelance
 | 4 | Deliver, collect testimonials, add to the post-purchase flow of stream 1 |
 
 ## Personalized plan
-_Pending intake._
+*Stand 2026-10-15. Werte in CHF.*
+
+### Reihenfolge für dich
+1. **Audit** (Monat 1–3) → Geld und Fallstudien
+2. **Cockpit** (ab Monat 2) → wiederkehrender Umsatz
+3. **Partner-Lizenz** (ab Monat 3) → Reichweite ohne eigenes Netzwerk
+4. **Branchen-Pakete** des Cockpits (ab ~30 Kunden): fertige KI-Workflows je Branche (z. B. Handwerk, Industrie, Freizeitbetriebe/Kartsport) als Zusatz für CHF 30–80/Monat
+5. **Projekt „6H“** erst, wenn das Cockpit die Stabilitätsgrenze erreicht hat
+
+### Grüne Ampel für den nächsten Schritt
+- Cockpit: **3 Monate in Folge MRR ±20 % stabil**, mindestens **CHF 3'000 MRR**, Kundenabgang < 4 %/Monat, Upkeep ≤ 6 h/Woche.
+- Erst dann Projekt „6H“ oder ein zweites Produkt bauen.
+
+### Risikoverteilung (Ziel Jahr 2)
+- Kein Partner > 30 % der Neukunden.
+- Kein Strom > 60 % des Einkommens (Audit + Cockpit + Lizenz).
+- E-Mail-Adresse und Vertrag mit 100 % der Kunden — auch bei über Partner gewonnenen Kunden.
+
+### Meilensteine
+| Monat | MRR Cockpit | Kunden | Audits/Monat | Partner aktiv |
+|-------|-------------|--------|--------------|---------------|
+| 3 | CHF 750 | 5 | 2 | 1 |
+| 6 | CHF 2'250 | 15 | 2–3 | 3 |
+| 12 | CHF 7'500 | 50 | 3 | 5–6 |
+| 18–24 | **CHF 20'000** | **134** | nach Bedarf | 8+ |
+
+Die Zahlen bis Monat 12 sind ein *realistischer Plan*, Monat 18–24 ist das Ziel. Liegst du in Monat 6 deutlich über Plan, kann CHF 20'000 schon in Monat 12 erreichbar sein — im TRACKER prüfen.
